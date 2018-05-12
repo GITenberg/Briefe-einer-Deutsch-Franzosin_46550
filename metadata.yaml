@@ -1,15 +1,16 @@
 _repo: Briefe-einer-Deutsch-Franzosin_46550
+_version: 0.1.0
 covers:
 - cover_type: archival
-  image_path: 46550/46550-h/images/cover-page.jpg
-  rights: Public domain in the USA.
-  rights_url: http://creativecommons.org/about/pdm
+  image_path: 46550-h/images/cover-page.jpg
 creator:
   author:
     agent_name: Kolb, Annette
     gutenberg_agent_id: '42651'
     url: http://www.gutenberg.org/2009/agents/42651
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/46550#Briefe-einer-Deutsch-Franzosin
 gutenberg_issued: '2014-08-10'
 gutenberg_type: Text
 identifiers:
